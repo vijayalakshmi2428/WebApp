@@ -12,5 +12,6 @@ Looking to complete the kubernetes job....
 Observe the changes in the browser...
 <h5>Working with Application CI job...<h5>
 <h2>Last commit of index page</h2>
+<h3>Working with Git and Github training...</h3>
 </body>
 </html>
